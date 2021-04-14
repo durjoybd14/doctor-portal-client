@@ -1,0 +1,20 @@
+.link{
+    text-decoration: none;
+    color:gray;
+}
+
+footer{
+    background-image: url('./../../../images/footer-bg.png');
+    background-size: cover;
+}
+
+footer .social-media li {
+    width:50px;
+    height:50px;
+    border-radius: 50%;
+    border: 1px solid gray;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content:center;
+}

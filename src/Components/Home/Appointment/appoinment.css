@@ -1,0 +1,12 @@
+.appoinment{
+    background: linear-gradient(rgba(36, 41, 73,0.8),rgba(235, 228, 217, 0.8)), url('../../../images/doctorPic.png');
+    background-size:cover;
+    background-repeat: no-repeat;
+    height:300px;
+    width: 100%;
+    border-radius: 10px;
+    
+}
+.doctorAppontment{
+    transform: translateY(-80px);
+}

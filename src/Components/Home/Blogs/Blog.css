@@ -1,0 +1,13 @@
+.blog-left{
+    background-color:#12d0d9;
+    color:#fff;
+    position: relative;
+}
+.icon{
+    display: inline-block;
+    font-size: 100px;
+    position:absolute;
+    bottom:30px;
+    right:50px;
+    opacity: .2;
+}
